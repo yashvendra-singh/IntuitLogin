@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Am5GMlYKHGbobMMAw2npPv93HED5Af03sZ5GdzeeOfiyijl3uM2XZKtNFOqvPNmY9Fu+O2ju9+V3dkwXzHkbDA==",
+  "success": true,
+  "projectFilePath": "F:\\Project\\IntuitSampleApp\\IntuitSampleApp\\IntuitSampleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YASH\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

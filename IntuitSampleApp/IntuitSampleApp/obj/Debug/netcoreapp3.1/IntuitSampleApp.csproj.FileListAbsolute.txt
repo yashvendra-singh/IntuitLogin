@@ -1,0 +1,15 @@
+F:\Project\IntuitSampleApp\IntuitSampleApp\bin\Debug\netcoreapp3.1\IntuitSampleApp.exe
+F:\Project\IntuitSampleApp\IntuitSampleApp\bin\Debug\netcoreapp3.1\IntuitSampleApp.deps.json
+F:\Project\IntuitSampleApp\IntuitSampleApp\bin\Debug\netcoreapp3.1\IntuitSampleApp.runtimeconfig.json
+F:\Project\IntuitSampleApp\IntuitSampleApp\bin\Debug\netcoreapp3.1\IntuitSampleApp.runtimeconfig.dev.json
+F:\Project\IntuitSampleApp\IntuitSampleApp\bin\Debug\netcoreapp3.1\IntuitSampleApp.dll
+F:\Project\IntuitSampleApp\IntuitSampleApp\bin\Debug\netcoreapp3.1\IntuitSampleApp.pdb
+F:\Project\IntuitSampleApp\IntuitSampleApp\obj\Debug\netcoreapp3.1\IntuitSampleApp.csprojAssemblyReference.cache
+F:\Project\IntuitSampleApp\IntuitSampleApp\obj\Debug\netcoreapp3.1\IntuitSampleApp.AssemblyInfoInputs.cache
+F:\Project\IntuitSampleApp\IntuitSampleApp\obj\Debug\netcoreapp3.1\IntuitSampleApp.AssemblyInfo.cs
+F:\Project\IntuitSampleApp\IntuitSampleApp\obj\Debug\netcoreapp3.1\IntuitSampleApp.dll
+F:\Project\IntuitSampleApp\IntuitSampleApp\obj\Debug\netcoreapp3.1\IntuitSampleApp.pdb
+F:\Project\IntuitSampleApp\IntuitSampleApp\obj\Debug\netcoreapp3.1\IntuitSampleApp.genruntimeconfig.cache
+F:\Project\IntuitSampleApp\IntuitSampleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Project\IntuitSampleApp\IntuitSampleApp\obj\Debug\netcoreapp3.1\IntuitSampleApp.csproj.CoreCompileInputs.cache
+F:\Project\IntuitSampleApp\IntuitSampleApp\obj\Debug\netcoreapp3.1\IntuitSampleApp.csproj.CopyComplete
